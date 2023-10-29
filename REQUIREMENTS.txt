@@ -1,0 +1,9 @@
+Python libs:
+ultralytics==8.0.20
+roboflow
+super-gradients
+supervision
+torch
+onemetric
+
+any last stable version
