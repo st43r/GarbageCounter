@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://ibb.co/k0FPJnT" />
+  <img src="https://imageupload.io/wVF8FPe5MIh8QP2" />
 </div>
 
 ## <div align="center">Стэк технологий📑</div>
