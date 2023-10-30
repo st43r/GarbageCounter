@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <img src="https://ibb.co/k0FPJnT" alt="banner2" border="0" />
+  <img src="https://ibb.co/k0FPJnT" />
 </div>
 
 ## <div align="center">Стэк технологий📑</div>
@@ -12,7 +12,7 @@
   <a href="https://www.python.org/doc/"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></a>
   <a href="https://pytorch.org/docs/stable/index.html"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"></a>
   <a href="https://opencv.github.io/cvat/docs/"><img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white"></a>
-  <a href="https://www.djangoproject.com/"><img src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></a>
+  <a href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-%23white.svg?style=for-the-badge&logo=django&logoColor=green"></a>
   <br>
   <a href="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yaml"><img src="https://github.com/ultralytics/ultralytics/actions/workflows/ci.yaml/badge.svg"></a>
 </div>
