@@ -30,7 +30,7 @@
 </p>
 
 <p>
-Для запуска проекта необходимо установить зависимости. Необходимые для работы проекта библиотеки можно посмотреть в файле <a href="https://github.com/st43r/GarbageCounter/main/requirements.txt">requirements.txt</a> и установить их вручную. Также можно воспользоваться командой:
+Для запуска проекта необходимо установить зависимости. Необходимые для работы проекта библиотеки можно посмотреть в файле <a href="тыhttps://github.com/st43r/GarbageCounter/blob/main/requirements.txt">requirements.txt</a> и установить их вручную. Также можно воспользоваться командой:
 </p>
   
 ```bash
@@ -39,7 +39,7 @@ $ pip install -r requirements.txt
 
 #### Альтернативный запуск без UI
 <p>
-  Для предпросмотра работы моделей без запуска пользовательского интерфейса можно воспользоваться <a href="https://jupyter.org/">Jupiter</a> блокнотом, данный блокнот лежит в репозитории проекта <a href="https://github.com/st43r/GarbageCounter/main/GarbageCounterYOLOv8-L.ipynb">GarbageCounterYOLOv8-L.ipynb </a> 
+  Для предпросмотра работы моделей без запуска пользовательского интерфейса можно воспользоваться <a href="https://jupyter.org/">Jupiter</a> блокнотом, данный блокнот лежит в репозитории проекта <a href="https://github.com/st43r/GarbageCounter/blob/main/GarbageCounterYOLOv8-L.ipynb">GarbageCounterYOLOv8-L.ipynb </a> 
 </p>
 
 #### Запуск пользовательского интерфейса
