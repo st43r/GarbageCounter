@@ -1,5 +1,4 @@
 
-#<a target="_blank" href="https://imageupload.io/wVF8FPe5MIh8QP2"><img  src="https://imageupload.io/ib/ofg2Tq4sUgpAMQB_1698701192.jpeg" alt="IMG_2287.jpeg"/></a>
 
 
 ## <div align="center">Стэк технологий📑</div>
